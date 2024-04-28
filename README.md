@@ -1,7 +1,4 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/hamidrjpr2/
-calculator?style=flat&logo=star) ![GitHub language count](https://img.shields.io/github/languages/count/hamidrjpr2/
-calculator?color=%23c1121f) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/hamidrjpr2/
-calculator)
+![GitHub Repo stars](https://img.shields.io/github/stars/hamidrjpr2/calculator?style=flat&logo=star) ![GitHub language count](https://img.shields.io/github/languages/count/hamidrjpr2/calculator?color=%23c1121f) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/hamidrjpr2/calculator)
 
 # JavaScript Calculator
 
